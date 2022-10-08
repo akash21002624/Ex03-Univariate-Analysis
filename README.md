@@ -28,8 +28,8 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
     
 # Program
 ```
-Developed by : THAMARAISELVAN V
-Registration Number : 212221230115
+Developed by : akash A
+Registration Number : 212221040010
 ```
 ```
 import pandas as pd
